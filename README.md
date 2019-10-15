@@ -5,4 +5,4 @@ Steps to Run
 1) $pip install gtts
 2)$pip install speech_recognition
 3) install any other packages if required
-4) Run speech.py
+4) Run t.py
